@@ -11,7 +11,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | TensorFlow | Scikit-learn | OpenCV | FastAPI | AWS
-- 🔧 &nbsp; PyCharm | Visual Studio code | Jupyter Notebook | Google colob | Postman
+- 🔧 &nbsp; PyCharm | Visual Studio code | Jupyter Notebook | Google colab | Postman
 - 🤖 &nbsp; CNN | NLP | ML-Algos  |  Data Analytics | Data Visualization | Model Deployment
 
 <hr>
