@@ -5,3 +5,9 @@
 - 📚  &nbsp; Studying Computer Science, Mathematics, Deep Learning, aws.
 - 🤔 &nbsp; Exploring new technologies and quick hacks and making boring stuffs automated
 - 💼 &nbsp; Python/Ml developer.
+
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; Python | TensorFlow | ML Algos | OpenCV | FastAPI | AWS
+- 🔧 &nbsp; PyCharm | Visual Studio code | Jupyter Notebook | Google colob
+- 🖥 &nbsp; CNN | NLP | Scikit-learn |  Data Analytics ! Data Visualization
