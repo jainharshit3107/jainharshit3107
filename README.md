@@ -8,6 +8,6 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | TensorFlow | ML Algos | OpenCV | FastAPI | AWS
+- 💻 &nbsp; Python | TensorFlow | Scikit-learn | OpenCV | FastAPI | AWS
 - 🔧 &nbsp; PyCharm | Visual Studio code | Jupyter Notebook | Google colob
-- 🖥 &nbsp; CNN | NLP | Scikit-learn |  Data Analytics ! Data Visualization
+- 🤖 &nbsp; CNN | NLP | ML-Algos  |  Data Analytics | Data Visualization
