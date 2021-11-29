@@ -6,7 +6,7 @@
 - 🎓 &nbsp; Studying Computer Science, Mathematics, Deep Learning, AWS
 - 💼 &nbsp; Python/Ml developer
 - 💪🏼 &nbsp; Exploring new technologies, solving real world industry problems and contribute to the establishment in long-term success. 
-- ⚡ Love to connect with new people, n a cup of tea makes everything better🥴
+- ⚡ Love Traveling, Connecting with new people, Foodie, n yeah a cup of tea makes everything better🥴
 
 <h3>🛠 Tech Stack</h3>
 
