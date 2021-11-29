@@ -2,10 +2,11 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 <h3> About Me </h3>
 
-- 💻 &nbsp; Currently working with aws-SageMaker to configure Ml/Dl Models
+- 💻 &nbsp; Currently working with aws-SageMaker to configure Ml/Dl Models.
 - 🎓 &nbsp; Studying Computer Science, Mathematics, Deep Learning, AWS
+- 💼 &nbsp; Python/Ml developer
 - 💪🏼 &nbsp; Exploring new technologies, solving real world industry problems and contribute to the establishment in long-term success. 
-- 💼 &nbsp; Python/Ml developer.
+- ⚡ Love to connect with new people, n a cup of tea makes everything better🥴
 
 <h3>🛠 Tech Stack</h3>
 
@@ -13,6 +14,7 @@
 - 🔧 &nbsp; PyCharm | Visual Studio code | Jupyter Notebook | Google colob | Postman
 - 🤖 &nbsp; CNN | NLP | ML-Algos  |  Data Analytics | Data Visualization | Model Deployment
 
+<hr>
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
