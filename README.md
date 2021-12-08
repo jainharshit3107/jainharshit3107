@@ -4,7 +4,7 @@
 
 - 💻 &nbsp; Currently working with aws-SageMaker to configure Ml/Dl Models.
 - 🎓 &nbsp; Studying Computer Science, Mathematics, Deep Learning, AWS
-- 💼 &nbsp; Python/Ml developer
+- 💼 &nbsp; Python/Ml developer, AWS ML Speciality
 - 💪🏼 &nbsp; Exploring new technologies, solving real world industry problems and contribute to the establishment in long-term success. 
 - ⚡ Love Traveling, Connecting with new people, Foodie, n yeah a cup of tea makes everything better🥴
 
