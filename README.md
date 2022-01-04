@@ -2,7 +2,7 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 <h3> About Me </h3>
 
-- 💻 &nbsp; Currently working with aws-SageMaker to configure ML/DL Models.
+- 💻 &nbsp; Currently working with aws-SageMaker
 - 🎓 &nbsp; Studying Computer Science, Mathematics, Deep Learning, AWS
 - 💼 &nbsp; Python/Ml developer, AWS ML Speciality
 - 💪🏼 &nbsp; Exploring new technologies, solving real world industry problems and contribute to the establishment in long-term success. 
